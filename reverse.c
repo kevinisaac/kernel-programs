@@ -3,7 +3,7 @@
 #include <linux/module.h>
 
 MODULE_LICENSE("GPL");
-MODULE_AUTHOR("Kevin Isaac <kevin.isaac70@gmail.com>");
+MODULE_AUTHOR("Kevin");
 MODULE_DESCRIPTION("In-kernel phrase reverser");
 
 static unsigned long buffer_size = 8192;
